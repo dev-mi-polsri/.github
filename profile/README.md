@@ -53,15 +53,11 @@ git commit -m "feat: describe your change here"
 6. **Push** to your fork and open a **Pull Request** against `main`.
 7. Engage in code review, address feedback, and celebrate merged contributions!
 
-Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](./CONTRIBUTING.md) for full details.
-
 ---
 
 ## 👩‍💻 Useful Resources
 
-- **Documentation**: [https://tim-dev-polsri.readthedocs.io](https://tim-dev-polsri.readthedocs.io)
 - **Issue Tracker**: Use GitHub Issues in each repository
-- **Wiki**: [Project Wiki](https://github.com/Tim-Dev-Polsri/<organization>/wiki)
 - **Communication**:
   - Whatsapp: [Whatsapp Group](https://chat.whatsapp.com/EJGeE5TuEAjLLEmaj6OX6Z)
 
